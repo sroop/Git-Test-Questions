@@ -1,1 +1,1 @@
-Explain what the 'upstream' remote is usually used for, in your own words
+The 'upstream' remote is used to connect your local repository with your main github repository, allowing you to pull and push. In the case of forking, the forked repository in your github is called origin and the repository on github which was forked from is the upstream. Therefore, the upstream remote in this case allows your local repository which was cloned from your forked repository, to pull in changes directly from the upstream.
