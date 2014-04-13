@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git Clone is used to get a local copy of a Git repository so you can start working in it. It includes a complete history of that project, a remote upstream and the most recently pulled changes.
