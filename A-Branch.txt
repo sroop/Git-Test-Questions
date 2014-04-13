@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch represents an independent line of development creating an isolated work environment. Typically a branch is used to work on one specific function. A project repository therefore can have multiple branches as a way of organising and tracking the development of a project by the completion of its smaller parts.
